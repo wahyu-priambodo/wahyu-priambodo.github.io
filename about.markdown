@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+author: w4h0yuz
 permalink: /about/
 ---
 
