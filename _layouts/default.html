@@ -4,6 +4,8 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Wahyu Priambodo’s Dummy Website | Source code semua tugas kuliah (PBO dan Pemrograman Web).</title>
+    <!-- Font awesome CDN -->
     <script src="https://kit.fontawesome.com/a4f79c8259.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
@@ -15,16 +17,17 @@
 
     <header>
       <div class="container">
-        <a id="a-title" href="{{ relative_url }}">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        </a>
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-        <!-- Twitter (X) icon -->
-        <a href="https://twitter.com/w4h0yuz" class="btn btn-linkedin"><span class="icon"><i class="fa-brands fa-x-twitter fa-lg"></i></span>Twitter</a>
-        <!-- Github icon -->
-        <a href="https://github.com/wahyu-priambodo" class="btn btn-linkedin"><span class="icon"><i class="fa-brands fa-github fa-lg"></i></span>Github</a>
-        <!-- LinkedIn icon -->
-        <a href="https://www.linkedin.com/in/wahyu-priambodo-tik22" class="btn btn-linkedin"><span class="icon"><i class="fa-brands fa-linkedin fa-lg"></i></i></span>LinkedIn</a>
+
+        <section id="links">
+          <!-- Twitter (X) icon -->
+          <a href="https://twitter.com/w4h0yuz" class="btn btn-linkedin"><span class="icon"><i class="fa-brands fa-x-twitter fa-lg"></i></span>Twitter</a>
+          <!-- Github icon -->
+          <a href="https://github.com/wahyu-priambodo" class="btn btn-linkedin"><span class="icon"><i class="fa-brands fa-github fa-lg"></i></span>Github</a>
+          <!-- LinkedIn icon -->
+          <a href="https://www.linkedin.com/in/wahyu-priambodo-tik22" class="btn btn-linkedin"><span class="icon"><i class="fa-brands fa-linkedin fa-lg"></i></i></span>LinkedIn</a>
+        </section>
       </div>
     </header>
 
