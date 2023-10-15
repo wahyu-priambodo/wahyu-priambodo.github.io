@@ -5,7 +5,7 @@
 layout: default
 author: w4h0yuz
 ---
-### Object-oriented Programming using Python (PBO) (Mr. Suriawan Andi Suhandana)
+### Object-oriented Programming using Python (PBO) (Mr. Ariawan Andi Suhandana)
 - Task 1 &mdash; Sept 26, 2023:
   - [Data-KTP.py](https://github.com/wahyu-priambodo/oops-python/blob/main/1-task/Data-KTP.py) 
   - [Nilai-Akhir-Mhs.py](https://github.com/wahyu-priambodo/oops-python/blob/main/1-task/Nilai-Akhir-Mhs.py)
