@@ -26,6 +26,9 @@ author: w4h0yuz
   - [1-tabel.html](./1-tabel.html)
 - Task 2 &mdash; Oct 11, 2023:
   - [2-list.html](./2-list.html)
+- Task 3 &mdash; Oct 18, 2023:
+  - [3-layout.html](./3-layout.html)
+  - [3-about.html](./3-about.html)
 
 <br><br>
 
